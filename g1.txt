@@ -1,1 +1,5 @@
 groom3 file
+
+
+main에서 수정을 했습니다.
+
